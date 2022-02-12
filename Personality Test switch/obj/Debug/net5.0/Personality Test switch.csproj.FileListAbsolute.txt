@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\Personality Test switch.exe
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\Personality Test switch.deps.json
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\Personality Test switch.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\Personality Test switch.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\Personality Test switch.dll
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\ref\Personality Test switch.dll
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\bin\Debug\net5.0\Personality Test switch.pdb
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.dll
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\ref\Personality Test switch.dll
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.pdb
+C:\Users\siim.jarveots\source\repos\Perssonality Test\Personality Test switch\obj\Debug\net5.0\Personality Test switch.genruntimeconfig.cache
